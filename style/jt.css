@@ -145,3 +145,65 @@ nav {
 .about-info .card-item h4 {
     font-size: 20px;
 }
+
+#skill{
+    padding-top: 130px;
+}
+
+.skill-content {
+
+     width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+    /* justify-content: space-between; */
+    /* background-color: #FFF8F3; */
+    /* padding: 131px 156px; */
+}
+.skill-heading{
+    text-align: center;
+    /* max-width: 827px; */
+}
+
+.skill-heading h2{
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+.skill-heading p{
+    font-size: 18px;
+    color: #757575;
+    margin-bottom: 50px;
+    line-height: 30px;
+    /* font-weight: 400; */
+}
+.skill-content-cards {
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 24px;
+    background-color: #FFFFFF;
+    /* box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 10px; */
+}
+.skill-card {
+    background-color: #ffffff;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 40px 30px;
+    flex: 1;
+    text-align: left;
+    
+}
+.skill-card h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  
+}
+.skill-card p {
+    font-size: 16px;
+    color: #757575;
+    line-height: 28px;
+}
+.skill-card img {
+    padding-bottom: 30px;
+}
+
