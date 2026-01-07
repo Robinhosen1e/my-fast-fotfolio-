@@ -115,6 +115,8 @@ nav {
 #banner .banner-image img{
     max-width: 585px;
     vertical-align: middle;
+    size: 600px;
+    /* height: 676px; */
 }
 #about ,#skill , #resume{
     padding-top: 130px;
